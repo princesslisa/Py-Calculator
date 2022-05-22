@@ -42,7 +42,7 @@ while True:
         print("Therefore,", b.replace(",", ops), "= ", c)
         break
 
-    #If there is a non-digit character in the entries, it writes out the entries and asks you to enter input again
+    # If there is a non-digit character in the entries, it writes out the entries and asks you to enter input again
     else:
         print("There is a non-digit in your numbers:", sep)
         continue
