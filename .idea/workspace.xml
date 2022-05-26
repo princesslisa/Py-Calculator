@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e48c87-9d20-4e6e-badd-dd8ff09f8d7f" name="Changes" comment="File editing" />
+    <list default="true" id="c6e48c87-9d20-4e6e-badd-dd8ff09f8d7f" name="Changes" comment="Added Finding anagrams file and Reading text file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +26,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/Zuri Projects"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653550701919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Finding anagrams file and Reading text file">
+      <created>1653551185080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653551185080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +75,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="File editing" />
-    <option name="LAST_COMMIT_MESSAGE" value="File editing" />
+    <MESSAGE value="Added Finding anagrams file and Reading text file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Finding anagrams file and Reading text file" />
   </component>
 </project>
